@@ -1,0 +1,7 @@
+C:\Workspace\UserSandbox\ap017663\Sample\SimpleLogLibrary\TestSimpleLogLibrary\bin\Debug\TestSimpleLogLibrary.exe
+C:\Workspace\UserSandbox\ap017663\Sample\SimpleLogLibrary\TestSimpleLogLibrary\bin\Debug\TestSimpleLogLibrary.pdb
+C:\Workspace\UserSandbox\ap017663\Sample\SimpleLogLibrary\TestSimpleLogLibrary\bin\Debug\SimpleLogLibrary.dll
+C:\Workspace\UserSandbox\ap017663\Sample\SimpleLogLibrary\TestSimpleLogLibrary\bin\Debug\SimpleLogLibrary.pdb
+C:\Workspace\UserSandbox\ap017663\Sample\SimpleLogLibrary\TestSimpleLogLibrary\obj\Debug\TestSimpleLogLibrary.csprojResolveAssemblyReference.cache
+C:\Workspace\UserSandbox\ap017663\Sample\SimpleLogLibrary\TestSimpleLogLibrary\obj\Debug\TestSimpleLogLibrary.exe
+C:\Workspace\UserSandbox\ap017663\Sample\SimpleLogLibrary\TestSimpleLogLibrary\obj\Debug\TestSimpleLogLibrary.pdb

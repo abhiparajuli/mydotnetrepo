@@ -1,0 +1,4 @@
+C:\Workspace\UserSandbox\ap017663\Sample\SimpleLogLibrary\SimpleLogLibrary\bin\Debug\SimpleLogLibrary.dll
+C:\Workspace\UserSandbox\ap017663\Sample\SimpleLogLibrary\SimpleLogLibrary\bin\Debug\SimpleLogLibrary.pdb
+C:\Workspace\UserSandbox\ap017663\Sample\SimpleLogLibrary\SimpleLogLibrary\obj\Debug\SimpleLogLibrary.dll
+C:\Workspace\UserSandbox\ap017663\Sample\SimpleLogLibrary\SimpleLogLibrary\obj\Debug\SimpleLogLibrary.pdb
